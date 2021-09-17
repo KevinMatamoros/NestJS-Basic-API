@@ -29,6 +29,7 @@ $ npm install
 File: `src/connections.ts` contain data of connection to database, just is needed create a database in XAMPP with that specification to can run the app.
 
 Note: `NOT NEEDED` but
+
 The file called `sendmeapp_db.sql` contain the script to generate DB.
 
 
